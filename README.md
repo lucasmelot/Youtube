@@ -2,7 +2,6 @@ Aqui está um modelo completo e organizado de **README.md** para o seu projeto, 
 
 ---
 
-```markdown
 # 📊 Dashboard de Estatísticas do YouTube
 
 Um projeto web simples e elegante que consome a API do YouTube v3 para exibir as métricas em tempo real de um canal, como visualizações totais, quantidade de inscritos e total de vídeos publicados.
@@ -68,7 +67,3 @@ fetch(url)
 ## 📄 Licença
 
 Este projeto é de uso livre para fins de estudo e aprendizado.
-
-```
-
-```
